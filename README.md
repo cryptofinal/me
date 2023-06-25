@@ -1,4 +1,4 @@
-👋 Hello there! I'm [Your Name], a passionate developer with a deep fascination for blockchain technology, cryptocurrencies, and Ethereum smart contracts.
+👋 Hello there! I'm Tonny, a passionate developer with a deep fascination for blockchain technology, cryptocurrencies, and Ethereum smart contracts.
 
 💡 I specialize in building decentralized applications (DApps) and exploring the transformative potential of blockchain in various industries. My goal is to contribute to the advancement of blockchain adoption by developing robust and secure applications on platforms like Ethereum.
 
